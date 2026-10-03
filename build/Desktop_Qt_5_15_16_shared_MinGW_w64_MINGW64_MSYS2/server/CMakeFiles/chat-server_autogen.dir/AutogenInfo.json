@@ -1,0 +1,127 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server/chat-server_autogen",
+	"CMAKE_BINARY_DIR" : "G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2",
+	"CMAKE_CURRENT_BINARY_DIR" : "G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server",
+	"CMAKE_CURRENT_SOURCE_DIR" : "G:/Code/demo_chat/server",
+	"CMAKE_EXECUTABLE" : "G:/work/msys2/mingw64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : [ "G:/Code/demo_chat/server/CMakeLists.txt" ],
+	"CMAKE_SOURCE_DIR" : "G:/Code/demo_chat",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server/chat-server_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "chat-server_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"G:/Code/demo_chat/server/chatserver.h",
+			"Mu",
+			"EWIEGA46WW/moc_chatserver.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server/chat-server_autogen/include",
+	"INCLUDE_DIR_Debug" : "G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server/chat-server_autogen/include_Debug",
+	"INCLUDE_DIR_RelWithDebInfo" : "G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server/chat-server_autogen/include_RelWithDebInfo",
+	"INCLUDE_DIR_Release" : "G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server/chat-server_autogen/include_Release",
+	"MOC_COMPILATION_FILE" : "G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server/chat-server_autogen/mocs_compilation.cpp",
+	"MOC_COMPILATION_FILE_Debug" : "G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server/chat-server_autogen/mocs_compilation_Debug.cpp",
+	"MOC_COMPILATION_FILE_RelWithDebInfo" : "G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server/chat-server_autogen/mocs_compilation_RelWithDebInfo.cpp",
+	"MOC_COMPILATION_FILE_Release" : "G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server/chat-server_autogen/mocs_compilation_Release.cpp",
+	"MOC_DEFINITIONS" : [],
+	"MOC_DEFINITIONS_Debug" : [ "QT_CORE_LIB", "QT_NETWORK_LIB" ],
+	"MOC_DEFINITIONS_RelWithDebInfo" : [ "QT_CORE_LIB", "QT_NETWORK_LIB", "QT_NO_DEBUG" ],
+	"MOC_DEFINITIONS_Release" : [ "QT_CORE_LIB", "QT_NETWORK_LIB", "QT_NO_DEBUG" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : [],
+	"MOC_INCLUDES_Debug" : 
+	[
+		"G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server",
+		"G:/Code/demo_chat/server",
+		"G:/Code/demo_chat/common",
+		"G:/work/msys2/mingw64/include/QtCore",
+		"G:/work/msys2/mingw64/share/qt5/mkspecs/win32-g++",
+		"G:/work/msys2/mingw64/include/QtNetwork",
+		"G:/work/msys2/mingw64/include",
+		"G:/work/msys2/mingw64/include/c++/14.2.0",
+		"G:/work/msys2/mingw64/include/c++/14.2.0/x86_64-w64-mingw32",
+		"G:/work/msys2/mingw64/include/c++/14.2.0/backward",
+		"G:/work/msys2/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include",
+		"G:/work/msys2/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed"
+	],
+	"MOC_INCLUDES_RelWithDebInfo" : 
+	[
+		"G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server",
+		"G:/Code/demo_chat/server",
+		"G:/Code/demo_chat/common",
+		"G:/work/msys2/mingw64/include/QtCore",
+		"G:/work/msys2/mingw64/share/qt5/mkspecs/win32-g++",
+		"G:/work/msys2/mingw64/include/QtNetwork",
+		"G:/work/msys2/mingw64/include",
+		"G:/work/msys2/mingw64/include/c++/14.2.0",
+		"G:/work/msys2/mingw64/include/c++/14.2.0/x86_64-w64-mingw32",
+		"G:/work/msys2/mingw64/include/c++/14.2.0/backward",
+		"G:/work/msys2/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include",
+		"G:/work/msys2/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed"
+	],
+	"MOC_INCLUDES_Release" : 
+	[
+		"G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server",
+		"G:/Code/demo_chat/server",
+		"G:/Code/demo_chat/common",
+		"G:/work/msys2/mingw64/include/QtCore",
+		"G:/work/msys2/mingw64/share/qt5/mkspecs/win32-g++",
+		"G:/work/msys2/mingw64/include/QtNetwork",
+		"G:/work/msys2/mingw64/include",
+		"G:/work/msys2/mingw64/include/c++/14.2.0",
+		"G:/work/msys2/mingw64/include/c++/14.2.0/x86_64-w64-mingw32",
+		"G:/work/msys2/mingw64/include/c++/14.2.0/backward",
+		"G:/work/msys2/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include",
+		"G:/work/msys2/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"G:/work/msys2/mingw64/bin/g++.exe",
+		"-std=gnu++11",
+		"-dM",
+		"-E",
+		"-c",
+		"G:/work/msys2/mingw64/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server/chat-server_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE_Debug" : "G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server/chat-server_autogen/moc_predefs_Debug.h",
+	"MOC_PREDEFS_FILE_RelWithDebInfo" : "G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server/chat-server_autogen/moc_predefs_RelWithDebInfo.h",
+	"MOC_PREDEFS_FILE_Release" : "G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server/chat-server_autogen/moc_predefs_Release.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : true,
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server/CMakeFiles/chat-server_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE_Debug" : "G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server/CMakeFiles/chat-server_autogen.dir/ParseCache_Debug.txt",
+	"PARSE_CACHE_FILE_RelWithDebInfo" : "G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server/CMakeFiles/chat-server_autogen.dir/ParseCache_RelWithDebInfo.txt",
+	"PARSE_CACHE_FILE_Release" : "G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server/CMakeFiles/chat-server_autogen.dir/ParseCache_Release.txt",
+	"QT_MOC_EXECUTABLE" : "G:/work/msys2/mingw64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server/CMakeFiles/chat-server_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE_Debug" : "G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server/CMakeFiles/chat-server_autogen.dir/AutogenUsed_Debug.txt",
+	"SETTINGS_FILE_RelWithDebInfo" : "G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server/CMakeFiles/chat-server_autogen.dir/AutogenUsed_RelWithDebInfo.txt",
+	"SETTINGS_FILE_Release" : "G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server/CMakeFiles/chat-server_autogen.dir/AutogenUsed_Release.txt",
+	"SOURCES" : 
+	[
+		[ "G:/Code/demo_chat/server/chatserver.cpp", "Mu", null ],
+		[ "G:/Code/demo_chat/server/main.cpp", "Mu", null ]
+	],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,14 @@
+G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/CMakeFiles/edit_cache.dir
+G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/CMakeFiles/rebuild_cache.dir
+G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/common/CMakeFiles/edit_cache.dir
+G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/common/CMakeFiles/rebuild_cache.dir
+G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server/CMakeFiles/chat-server.dir
+G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server/CMakeFiles/edit_cache.dir
+G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server/CMakeFiles/rebuild_cache.dir
+G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server/CMakeFiles/chat-server_autogen_timestamp_deps.dir
+G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/server/CMakeFiles/chat-server_autogen.dir
+G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/client/CMakeFiles/chat-client.dir
+G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/client/CMakeFiles/edit_cache.dir
+G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/client/CMakeFiles/rebuild_cache.dir
+G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/client/CMakeFiles/chat-client_autogen_timestamp_deps.dir
+G:/Code/demo_chat/build/Desktop_Qt_5_15_16_shared_MinGW_w64_MINGW64_MSYS2/client/CMakeFiles/chat-client_autogen.dir
